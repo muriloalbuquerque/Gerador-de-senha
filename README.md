@@ -17,27 +17,27 @@ Ideal para quem precisa de senhas fortes para proteger contas e dados pessoais.
 
 ### 🔹 **1. Clone o Repositório**
 
-
+```bash
 git clone https://github.com/muriloalbuquerque/Gerador-de-senha.git
 cd Gerador-de-senha
+```
 🔹 2. Compile o Projeto
 Certifique-se de ter o Kotlin instalado. Para compilar:
 
-bash
-Copy
-Edit
+```bash
 kotlinc Main.kt -include-runtime -d gerador-de-senha.jar
+```
 🔹 3. Execute o Programa
-bash
-Copy
-Edit
+```bash
 java -jar gerador-de-senha.jar
+```
 📝 Exemplo de Uso
+```bash
 Execute o programa
 
 Escolha o tamanho da senha desejada
 
 O programa gerará automaticamente uma senha segura
-
+```
 📄 Licença
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
