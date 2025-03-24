@@ -17,7 +17,7 @@ Ideal para quem precisa de senhas fortes para proteger contas e dados pessoais.
 
 ### 🔹 **1. Clone o Repositório**
 
-```bash
+
 git clone https://github.com/muriloalbuquerque/Gerador-de-senha.git
 cd Gerador-de-senha
 🔹 2. Compile o Projeto
