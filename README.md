@@ -1,39 +1,43 @@
-Gerador de Senha
+# **Gerador de Senha**
 
-📌 Descrição do Projeto
+## 📌 **Descrição do Projeto**
 
-Gerador de Senha é uma aplicação simples desenvolvida em Kotlin para gerar senhas aleatórias e seguras de forma rápida e prática. Ideal para quem precisa de senhas fortes para proteger contas e dados pessoais.
+**Gerador de Senha** é uma aplicação simples desenvolvida em **Kotlin** para gerar senhas aleatórias e seguras de forma rápida e prática.  
+Ideal para quem precisa de senhas fortes para proteger contas e dados pessoais.
 
-⚙ Tecnologia Utilizada
+---
 
-🛠 Kotlin - Linguagem principal do projeto
+## ⚙ **Tecnologia Utilizada**
 
-🚀 Como Rodar o Projeto
+- 🛠 **[Kotlin](https://kotlinlang.org/)** - Linguagem principal do projeto
 
-🔹 1. Clone o Repositório
+---
 
+## 🚀 **Como Rodar o Projeto**
+
+### 🔹 **1. Clone o Repositório**
+
+```bash
 git clone https://github.com/muriloalbuquerque/Gerador-de-senha.git
 cd Gerador-de-senha
-
 🔹 2. Compile o Projeto
-
 Certifique-se de ter o Kotlin instalado. Para compilar:
 
+bash
+Copy
+Edit
 kotlinc Main.kt -include-runtime -d gerador-de-senha.jar
-
 🔹 3. Execute o Programa
-
+bash
+Copy
+Edit
 java -jar gerador-de-senha.jar
-
 📝 Exemplo de Uso
+Execute o programa
 
-Execute o programa.
+Escolha o tamanho da senha desejada
 
-Escolha o tamanho da senha desejada.
-
-O programa gerará automaticamente uma senha segura.
+O programa gerará automaticamente uma senha segura
 
 📄 Licença
-
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
